@@ -1,9 +1,15 @@
 ### Hi there 👋
 
+<!--
+  ![ChromaMaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=chromamaster&count_private=true&show_icons=true&theme=tokyonight)
+-->
 
 <p align="center">
-  ![ChromaMaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=chromamaster&count_private=true&show_icons=true&theme=tokyonight)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img  src="https://github-readme-stats.vercel.app/api?username=chromamaster&count_private=true&show_icons=true&theme=tokyonight" />
+  </a>
 </p>
+
 <!--
 **ChromaMaster/ChromaMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
